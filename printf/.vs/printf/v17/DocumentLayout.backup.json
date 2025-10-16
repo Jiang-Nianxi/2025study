@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vc2022\\2025study\\printf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07B463B5-AD7A-4F50-BB0B-BA73B0E13C56}|printf\\printf.vcxproj|E:\\vc2022\\2025study\\printf\\printf\\printf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07B463B5-AD7A-4F50-BB0B-BA73B0E13C56}|printf\\printf.vcxproj|solutionrelative:printf\\printf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "printf.c",
+              "DocumentMoniker": "E:\\vc2022\\2025study\\printf\\printf\\printf.c",
+              "RelativeDocumentMoniker": "printf\\printf.c",
+              "ToolTip": "E:\\vc2022\\2025study\\printf\\printf\\printf.c*",
+              "RelativeToolTip": "printf\\printf.c*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-16T02:12:46.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
