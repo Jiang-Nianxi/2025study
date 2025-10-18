@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\vc2022\\2025study\\bianliang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE188AD-7E64-4ED9-8AA2-68CC89D6B6F7}|bianliang.vcxproj|E:\\vc2022\\2025study\\bianliang\\bianliang.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4CE188AD-7E64-4ED9-8AA2-68CC89D6B6F7}|bianliang.vcxproj|solutionrelative:bianliang.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bianliang.c",
+              "DocumentMoniker": "E:\\vc2022\\2025study\\bianliang\\bianliang.c",
+              "RelativeDocumentMoniker": "bianliang.c",
+              "ToolTip": "E:\\vc2022\\2025study\\bianliang\\bianliang.c",
+              "RelativeToolTip": "bianliang.c",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-18T17:56:09.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
