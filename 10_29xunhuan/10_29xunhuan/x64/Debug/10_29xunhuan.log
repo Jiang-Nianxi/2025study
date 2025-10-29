@@ -1,0 +1,6 @@
+﻿  循环.c
+F:\vs2022\2025study\10_29xunhuan\循环.c(132,30): warning C4474: printf: 格式字符串中传递的参数太多
+      F:\vs2022\2025study\10_29xunhuan\循环.c(132,30):
+      占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  
+  10_29xunhuan.vcxproj -> F:\vs2022\2025study\10_29xunhuan\x64\Debug\10_29xunhuan.exe
