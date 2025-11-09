@@ -136,6 +136,7 @@
     <ClCompile Include="1010.c" />
     <ClCompile Include="1011.c" />
     <ClCompile Include="1012.c" />
+    <ClCompile Include="1013.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

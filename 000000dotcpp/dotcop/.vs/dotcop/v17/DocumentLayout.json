@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1013.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|solutionrelative:1013.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1012.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|solutionrelative:1012.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "1013.c",
+              "DocumentMoniker": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1013.c",
+              "RelativeDocumentMoniker": "1013.c",
+              "ToolTip": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1013.c",
+              "RelativeToolTip": "1013.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-09T17:53:40.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "1012.c",
               "DocumentMoniker": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1012.c",
               "RelativeDocumentMoniker": "1012.c",
