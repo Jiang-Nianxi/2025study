@@ -1,5 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+#include<string.h>
 int main() {
 	//int a = 5;
 	//int b;
@@ -94,14 +95,156 @@ int main() {
 	a = 3, ++a, a++, a + 5;
 	printf("%d\n", a);*/
 
+	
+	//遍历字符串
+	/*char str[100];
+	scanf("%s", str);
+	printf("接收到的字符串为:%s\n", str);
+	char* p = str;
+	while (1) {
+		char c = *p;
+		if (c == '\0') {
+			break;
+		}
+		printf("%c\n", c);
+		p++;
+	}*/
+	
 
-	//定义一个数字.1，变成绝对值。2，除以3取余数。3，乘以10
-	int a=17;
-	a = (a < 0) ? -a : a;
-	a = a % 3;
-	a = a * 10;
-	printf("%d\n", a);
+
+	//定义一个数组存五个名字并遍历：
+	//char strArr[5][100] = {
+	//	"zhangsan",
+	//	"lisi",
+	//	"wangwu",
+	//	"zhaoliu",
+	//	"qianqi",
+	//};
+	//for (int i = 0; i < 5; i++)
+	//{
+	//	char* str = strArr[i];
+	//	printf("%s\n", str);
+	//}
+
+	////字符串指针
+	//char* strArr2[5] = {
+	//	"zhangsan",
+	//	"lisi",
+	//	"wangwu",
+	//	"zhaoliu",
+	//	"qianqi",
+	//};
+
+	////遍历指针数组
+	//for (int i = 0; i < 5; i++)
+	//{
+	//	char* str = strArr2[i];
+	//	printf("%s\n", str);
+	//}
+	
+	
+	
+	//字符串常见函数
+	//strlen:获取字符串长度
+	//char* str1 = "abc";//只能读不能改
+	//char str2[100] = "Abc";
+	//char str3[5] = {'q','w','e','r','\0'};
+	//printf( "---------strlen长度----------\n" );
+	////int len1 = strlen(str1);//一个中文两个字节
+	////int len2 = strlen(str2);
+	////int len3 = strlen(str3);//不计算结束标记‘\0’
+	////printf("%d\n", len1);
+	////printf("%d\n", len2);
+	////printf("%d\n", len3);
+	//printf( "---------strcat拼接----------\n" );
+	////strcat(str2, str3);//第二个字符串的拷贝到第一个字符串的末尾
+	////				   //第一个字符串能被修改
+	////				   //第一个字符串剩余的空间可以接纳拼接
+	////printf("%s\n", str2);
+	////printf("%s\n", str3);
+
+	//printf( "---------strcpy拷贝----------\n" );
+	////strcpy(str2, str3);//第一个能修改、空间够
+	////printf("%s\n", str2);
+	////printf("%s\n", str3);
+	//printf( "---------strcmp比较----------\n" );
+	////int res = strcmp(str1, str2);
+	////printf("%d\n", res);//顺序、内容完全一样：0
+	//////有一个不一样：非0
+	//printf("---------strlwr变小写----------\n");
+	////只能英文，不能中文
+	//_strlwr(str2);/*
+	//printf("%s\n", str2);*/
+	//printf("---------strupr变大写----------\n");
+	//_strupr(str2);
+	//printf("%s\n", str2);
 
 
+
+	//用户登录
+	//定义正确的用户名和密码：
+	//char* prightUsername = "zhangsan";
+	//char* prightPassword = "1234qwer";
+
+	//
+
+	////比较
+	//for (int i = 0; i < 3; i++)
+	//{
+	//	//键盘录入两个字符串，表示用户名和密码：
+	//	printf("请输入用户名：\n");
+	//	char username[100];
+	//	scanf("%s", username);
+
+	//	printf("请输入密码：\n");
+	//	char password[100];
+	//	scanf("%s", password);
+	//	/*printf("%s\n", username);
+	//	printf("%s\n", password);*/
+	//	if (!strcmp(username, prightUsername) && !strcmp(password, prightPassword)) {
+	//		printf("登陆成功\n");
+	//		break;
+	//	}
+	//	else {
+	//		if (i == 2) {
+	//			printf("用户账号已经被锁定");
+	//		}
+	//		else {
+	//			printf("登陆失败，还剩%d次机会\n",2 - i);
+	//		}
+	//	}
+	//}
+
+
+
+
+	//练习二：统计次数
+	//录入
+	printf("请输入一个字符串\n");
+	char str[100];
+	scanf("%s", str);
+	//遍历、比较
+	int big = 0;
+	int small = 0;
+	int number = 0;
+	for (int i = 0; i < strlen(str); i++)
+	{
+		char c = str[i];
+		if (c >= 'a' && c <= 'z') {
+			small++;
+		}else if (c >= 'A' && c <= 'Z')
+		{
+			big++;
+		}
+		else if (c >= '0' && c <= '9') {
+			number++;
+		}
+		
+	}printf("大写字符出现了%d次\n", big);
+	printf("小写字符出现了%d次\n", small);
+	printf("数字字符出现了%d次\n", number);
+	
+
+	
 	return 0;
 }
