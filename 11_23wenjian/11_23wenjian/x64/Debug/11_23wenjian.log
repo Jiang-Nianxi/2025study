@@ -1,0 +1,3 @@
+﻿  文件.c
+F:\vs2022\2025study\11_23wenjian\文件.c(142,14): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  11_23wenjian.vcxproj -> F:\vs2022\2025study\11_23wenjian\x64\Debug\11_23wenjian.exe
