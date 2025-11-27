@@ -66,5 +66,11 @@
     <ClCompile Include="1016.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1017.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1018.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
