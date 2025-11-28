@@ -72,5 +72,11 @@
     <ClCompile Include="1018.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1019.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1020.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

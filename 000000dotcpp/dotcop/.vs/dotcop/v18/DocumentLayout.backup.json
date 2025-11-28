@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1018.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|solutionrelative:1018.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1020.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|solutionrelative:1020.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "1018.c",
-              "DocumentMoniker": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1018.c",
-              "RelativeDocumentMoniker": "1018.c",
-              "ToolTip": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1018.c*",
-              "RelativeToolTip": "1018.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Title": "1020.c",
+              "DocumentMoniker": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1020.c",
+              "RelativeDocumentMoniker": "1020.c",
+              "ToolTip": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1020.c*",
+              "RelativeToolTip": "1020.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-11-27T05:11:29.403Z",
+              "WhenOpened": "2025-11-28T07:10:01.04Z",
               "EditorCaption": ""
             }
           ]

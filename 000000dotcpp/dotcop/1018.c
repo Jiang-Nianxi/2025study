@@ -1,14 +1,18 @@
-#define _CRT_SECURE_NO_WARNINGS
-#include <stdio.h>
-int main() {
-	int n=14;
-	int a = 0;
-	int sum = 0;
-	//{ 2,3,5,8,13,21,34,55,89,144,233,377,610,987 };
-	for (int i = 2; i < n; i++)
-	{
-		a = i + i;
-		printf("%d ", a);
-	}
-	return 0;
-}
+//#define _CRT_SECURE_NO_WARNINGS
+//#include <stdio.h>
+//int main() {
+//	int n = 0;
+//	double a = 2;
+//	double b = 1;
+//	double sum = 0;
+//	double temp = 0;
+//	scanf("%d", &n);
+//	for (int i = 0; i < n; i++) {
+//		sum += a/b;
+//		temp = a;
+//		a = a + b;
+//		b = temp;
+//	}
+//	printf("%.2lf\n", sum);
+//	return 0;
+//}

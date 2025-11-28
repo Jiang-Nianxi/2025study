@@ -1,0 +1,3 @@
+﻿  反转字符串.c
+F:\vs2022\2025study\11_28fanzhuanzifuchuan\反转字符串.c(23,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  11_28fanzhuanzifuchuan.vcxproj -> F:\vs2022\2025study\11_28fanzhuanzifuchuan\x64\Debug\11_28fanzhuanzifuchuan.exe
