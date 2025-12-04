@@ -93,5 +93,11 @@
     <ClCompile Include="1025.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1026.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1027.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
