@@ -1,6 +1,2 @@
-﻿  1027.c
-F:\vs2022\2025study\000000dotcpp\dotcop\1027.c(7,6): warning C4013: “gys”未定义；假设外部返回 int
-F:\vs2022\2025study\000000dotcpp\dotcop\1027.c(8,6): warning C4013: “gbs”未定义；假设外部返回 int
-F:\vs2022\2025study\000000dotcpp\dotcop\1027.c(5,22): warning C4101: “t2”: 未引用的局部变量
-F:\vs2022\2025study\000000dotcpp\dotcop\1027.c(5,18): warning C4101: “t1”: 未引用的局部变量
+﻿  1029.c
   dotcop.vcxproj -> F:\vs2022\2025study\000000dotcpp\dotcop\x64\Debug\dotcop.exe
