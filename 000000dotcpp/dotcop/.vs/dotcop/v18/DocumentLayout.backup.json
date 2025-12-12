@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1029.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|solutionrelative:1029.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1032.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|solutionrelative:1032.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1028.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|solutionrelative:1028.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1031.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|solutionrelative:1031.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1027.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|solutionrelative:1027.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1030.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{442FAFBD-57E3-4FED-A8EE-0540BD773F8F}|dotcop.vcxproj|solutionrelative:1030.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "1029.c",
-              "DocumentMoniker": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1029.c",
-              "RelativeDocumentMoniker": "1029.c",
-              "ToolTip": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1029.c*",
-              "RelativeToolTip": "1029.c*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBoAAAACAAAAAAAAAA==",
+              "Title": "1032.c",
+              "DocumentMoniker": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1032.c",
+              "RelativeDocumentMoniker": "1032.c",
+              "ToolTip": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1032.c*",
+              "RelativeToolTip": "1032.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-08T06:57:10.354Z",
+              "WhenOpened": "2025-12-12T06:49:29.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "1028.c",
-              "DocumentMoniker": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1028.c",
-              "RelativeDocumentMoniker": "1028.c",
-              "ToolTip": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1028.c",
-              "RelativeToolTip": "1028.c",
+              "Title": "1031.c",
+              "DocumentMoniker": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1031.c",
+              "RelativeDocumentMoniker": "1031.c",
+              "ToolTip": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1031.c",
+              "RelativeToolTip": "1031.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-08T06:29:59.412Z",
+              "WhenOpened": "2025-12-12T06:39:24.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "1027.c",
-              "DocumentMoniker": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1027.c",
-              "RelativeDocumentMoniker": "1027.c",
-              "ToolTip": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1027.c",
-              "RelativeToolTip": "1027.c",
+              "Title": "1030.c",
+              "DocumentMoniker": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1030.c",
+              "RelativeDocumentMoniker": "1030.c",
+              "ToolTip": "F:\\vs2022\\2025study\\000000dotcpp\\dotcop\\1030.c",
+              "RelativeToolTip": "1030.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-04T15:38:13.107Z",
+              "WhenOpened": "2025-12-12T06:25:04.857Z",
               "EditorCaption": ""
             }
           ]
